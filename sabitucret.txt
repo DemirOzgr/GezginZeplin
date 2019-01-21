@@ -1,0 +1,776 @@
+
+YOLCU SAYISI: 5
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 6
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 7
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 8
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 9
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 10
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 11
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 12
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 13
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 14
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 15
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 16
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 17
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 18
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 19
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 20
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 21
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 22
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 23
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 24
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 25
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 26
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 27
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 28
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 29
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Aksaray
+Enlem :  38.3687	Boylam  :  34.037	Uzaklik  :   1719.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2013.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2202.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2357.0
+YOLCU SAYISI: 30
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Nigde
+Enlem :  37.9667	Boylam  :  34.6833	Uzaklik  :   1736.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2064.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2253.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2408.0
+YOLCU SAYISI: 31
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Nevsehir
+Enlem :  38.6939	Boylam  :  34.6857	Uzaklik  :   1614.0
+Nigde
+Enlem :  37.9667	Boylam  :  34.6833	Uzaklik  :   1736.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2064.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2253.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2408.0
+YOLCU SAYISI: 32
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Kirsehir
+Enlem :  39.1425	Boylam  :  34.1709	Uzaklik  :   1790.0
+Ankara
+Enlem :  39.9208	Boylam  :  32.8541	Uzaklik  :   1986.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2271.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2460.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2615.0
+YOLCU SAYISI: 33
+Van
+Enlem :  38.4891	Boylam  :  43.4089	Uzaklik  :   0.0
+Bitlis
+Enlem :  38.3938	Boylam  :  42.1232	Uzaklik  :   180.0
+Mus
+Enlem :  38.9462	Boylam  :  41.7539	Uzaklik  :   539.0
+Bingol
+Enlem :  39.0626	Boylam  :  40.7696	Uzaklik  :   779.0
+Erzincan
+Enlem :  39.75	Boylam  :  39.5	Uzaklik  :   949.0
+Sivas
+Enlem :  39.7477	Boylam  :  37.0179	Uzaklik  :   1207.0
+Yozgat
+Enlem :  39.8181	Boylam  :  34.8147	Uzaklik  :   1403.0
+Kirsehir
+Enlem :  39.1425	Boylam  :  34.1709	Uzaklik  :   1790.0
+Ankara
+Enlem :  39.9208	Boylam  :  32.8541	Uzaklik  :   1986.0
+Konya
+Enlem :  37.8667	Boylam  :  32.4833	Uzaklik  :   2271.0
+Isparta
+Enlem :  37.7648	Boylam  :  30.5566	Uzaklik  :   2460.0
+Burdur
+Enlem :  37.4613	Boylam  :  30.0665	Uzaklik  :   2615.0
+YOLCU SAYISI: 34
+ Yol Yok !! 
+
+YOLCU SAYISI: 35
+ Yol Yok !! 
+
+YOLCU SAYISI: 36
+ Yol Yok !! 
+
+YOLCU SAYISI: 37
+ Yol Yok !! 
+
+YOLCU SAYISI: 38
+ Yol Yok !! 
+
+YOLCU SAYISI: 39
+ Yol Yok !! 
+
+YOLCU SAYISI: 40
+ Yol Yok !! 
+
+YOLCU SAYISI: 41
+ Yol Yok !! 
+
+YOLCU SAYISI: 42
+ Yol Yok !! 
+
+YOLCU SAYISI: 43
+ Yol Yok !! 
+
+YOLCU SAYISI: 44
+ Yol Yok !! 
+
+YOLCU SAYISI: 45
+ Yol Yok !! 
+
+YOLCU SAYISI: 46
+ Yol Yok !! 
+
+YOLCU SAYISI: 47
+ Yol Yok !! 
+
+YOLCU SAYISI: 48
+ Yol Yok !! 
+
+YOLCU SAYISI: 49
+ Yol Yok !! 
+
+YOLCU SAYISI: 50
+ Yol Yok !! 
